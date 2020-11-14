@@ -1,0 +1,11 @@
+1. Hour wise number of order (count) (Pre and Post)
+2. City wise total number of order (Pre and Post)
+3. City wise which product is more popular (should be more than 1 item) (Pre and post)
+4. Hour wise total number of order (sum) where Qty more than 1 (Pre and post)
+5. Daily Revenue and find top most (Pre and Post)
+6. Category wise revenue (Pre and Post)
+7. Hour wise Revenue and find top most (Pre and Post)
+8. City wise famous category (Pre and Post)
+9. Item wise revenue and find the top most (Pre and Post)
+10. City wise revenue and find top most (Pre and Post)
+
