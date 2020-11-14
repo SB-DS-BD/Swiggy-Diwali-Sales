@@ -1,2 +1,3 @@
 # Swiggy-Diwali-Sales
-Swiggy Case Dataset - Pre-Post Diwali Sales (Sweets) SQL Data Analysis
+Swiggy Diwali Sales (Sweets) SQL Data Analysis
+Pre and Post Datasets
